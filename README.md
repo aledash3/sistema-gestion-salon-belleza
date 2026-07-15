@@ -101,7 +101,7 @@ MongoDB (Mongoose)
 ## Frontend
 
 - React
-- 
+- Vite
 - Axios
 - CSS
 
