@@ -360,7 +360,7 @@ Durante el desarrollo del proyecto se implementaron conceptos de:
 
 ## 📋 Detalle del Cliente
 
-![Detalle Cliente](docs/detalle-cliente.png)
+![Detalle Cliente](docs/detalleclientes.png)
 
 ---
 
